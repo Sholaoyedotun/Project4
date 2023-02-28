@@ -293,6 +293,8 @@ The server is now up and running, we can connect it via port 3300. You can launc
 
 It shall return an HTML page, it is hardly readable in the CLI, but we can also try and access it from the Internet.
 
+'Server needs to be running'
+
 For this – you need to open TCP port 3300 in your AWS Web Console for your EC2 Instance.
 
 Run 
